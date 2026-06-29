@@ -1,0 +1,24 @@
+# Compiled binaries & objects
+fs
+fs.exe
+filesystem
+*.o
+
+# Virtual Disk Image
+disk.img
+disk.img.bak
+test_input.txt
+
+# Python cache & virtualenv
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+
+# IDE & OS configuration files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
