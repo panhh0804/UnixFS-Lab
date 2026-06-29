@@ -1,5 +1,7 @@
 # UnixFS-Lab
 
+[English](README.md) | [简体中文](README_zh.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language: C](https://img.shields.io/badge/Language-C-blue.svg)](https://gcc.gnu.org/)
 [![Language: Python](https://img.shields.io/badge/Language-Python-green.svg)](https://www.python.org/)
