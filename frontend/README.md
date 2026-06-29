@@ -27,7 +27,7 @@ python3 main.py
 Windows 原生运行时，先安装 Python、PyQt6 和 MinGW/MSYS2 的 gcc/make，然后在 PowerShell 中：
 
 ```powershell
-cd C:\Users\...\filesystem5.0
+cd path\to\UnixFS-Lab
 make
 python -m pip install -r frontend\requirements.txt
 python frontend\main.py
