@@ -22,3 +22,6 @@ venv/
 .idea/
 *.swp
 *.swo
+
+# Project documentation & local reports
+files/
